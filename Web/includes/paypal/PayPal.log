@@ -1,0 +1,64 @@
+[09-02-2016 05:59:01] PayPal\Core\PayPalHttpConnection: INFO	: POST https://api.paypal.com/v1/oauth2/token
+[09-02-2016 05:59:02] PayPal\Core\PayPalHttpConnection: INFO	: Response Status 	: 200
+[09-02-2016 05:59:02] PayPal\Core\PayPalHttpConnection: INFO	: POST https://api.paypal.com/v1/payments/payment
+[09-02-2016 05:59:02] PayPal\Core\PayPalHttpConnection: INFO	: Response Status 	: 201
+[09-02-2016 06:03:16] PayPal\Core\PayPalHttpConnection: INFO	: POST https://api.paypal.com/v1/oauth2/token
+[09-02-2016 06:03:16] PayPal\Core\PayPalHttpConnection: INFO	: Response Status 	: 200
+[09-02-2016 06:03:16] PayPal\Core\PayPalHttpConnection: INFO	: GET https://api.paypal.com/v1/payments/payment/PAY-71P344617D563433SK25CRZQ
+[09-02-2016 06:03:17] PayPal\Core\PayPalHttpConnection: INFO	: Response Status 	: 200
+[09-02-2016 06:03:17] PayPal\Core\PayPalHttpConnection: INFO	: POST https://api.paypal.com/v1/payments/payment/PAY-71P344617D563433SK25CRZQ/execute
+[09-02-2016 06:03:19] PayPal\Core\PayPalHttpConnection: INFO	: Response Status 	: 200
+[09-02-2016 08:42:37] PayPal\Core\PayPalHttpConnection: INFO	: POST https://api.paypal.com/v1/oauth2/token
+[09-02-2016 08:42:38] PayPal\Core\PayPalHttpConnection: INFO	: Response Status 	: 200
+[09-02-2016 08:42:38] PayPal\Core\PayPalHttpConnection: INFO	: POST https://api.paypal.com/v1/payments/payment
+[09-02-2016 08:42:39] PayPal\Core\PayPalHttpConnection: INFO	: Response Status 	: 201
+[09-02-2016 08:47:34] PayPal\Core\PayPalHttpConnection: INFO	: POST https://api.paypal.com/v1/oauth2/token
+[09-02-2016 08:47:35] PayPal\Core\PayPalHttpConnection: INFO	: Response Status 	: 200
+[09-02-2016 08:47:35] PayPal\Core\PayPalHttpConnection: INFO	: POST https://api.paypal.com/v1/payments/payment
+[09-02-2016 08:47:35] PayPal\Core\PayPalHttpConnection: INFO	: Response Status 	: 201
+[12-02-2016 08:32:23] PayPal\Core\PayPalHttpConnection: INFO	: POST https://api.paypal.com/v1/oauth2/token
+[12-02-2016 08:32:23] PayPal\Core\PayPalHttpConnection: INFO	: Response Status 	: 200
+[12-02-2016 08:32:23] PayPal\Core\PayPalHttpConnection: INFO	: POST https://api.paypal.com/v1/payments/payment
+[12-02-2016 08:32:24] PayPal\Core\PayPalHttpConnection: INFO	: Response Status 	: 201
+[12-02-2016 08:33:41] PayPal\Core\PayPalHttpConnection: INFO	: POST https://api.paypal.com/v1/oauth2/token
+[12-02-2016 08:33:41] PayPal\Core\PayPalHttpConnection: INFO	: Response Status 	: 200
+[12-02-2016 08:33:41] PayPal\Core\PayPalHttpConnection: INFO	: GET https://api.paypal.com/v1/payments/payment/PAY-0P680286FM796730EK26ZRGA
+[12-02-2016 08:33:42] PayPal\Core\PayPalHttpConnection: INFO	: Response Status 	: 200
+[12-02-2016 08:33:42] PayPal\Core\PayPalHttpConnection: INFO	: POST https://api.paypal.com/v1/payments/payment/PAY-0P680286FM796730EK26ZRGA/execute
+[12-02-2016 08:33:44] PayPal\Core\PayPalHttpConnection: INFO	: Response Status 	: 200
+[13-02-2016 01:19:36] PayPal\Core\PayPalHttpConnection: INFO	: POST https://api.paypal.com/v1/oauth2/token
+[13-02-2016 01:19:36] PayPal\Core\PayPalHttpConnection: INFO	: Response Status 	: 200
+[13-02-2016 01:19:36] PayPal\Core\PayPalHttpConnection: INFO	: POST https://api.paypal.com/v1/payments/payment
+[13-02-2016 01:19:37] PayPal\Core\PayPalHttpConnection: INFO	: Response Status 	: 201
+[13-02-2016 06:14:48] PayPal\Core\PayPalHttpConnection: INFO	: POST https://api.paypal.com/v1/oauth2/token
+[13-02-2016 06:14:48] PayPal\Core\PayPalHttpConnection: INFO	: Response Status 	: 200
+[13-02-2016 06:14:48] PayPal\Core\PayPalHttpConnection: INFO	: POST https://api.paypal.com/v1/payments/payment
+[13-02-2016 06:14:49] PayPal\Core\PayPalHttpConnection: INFO	: Response Status 	: 201
+[15-02-2016 09:17:40] PayPal\Core\PayPalHttpConnection: INFO	: POST https://api.paypal.com/v1/oauth2/token
+[15-02-2016 09:17:41] PayPal\Core\PayPalHttpConnection: INFO	: Response Status 	: 200
+[15-02-2016 09:17:41] PayPal\Core\PayPalHttpConnection: INFO	: POST https://api.paypal.com/v1/payments/payment
+[15-02-2016 09:17:42] PayPal\Core\PayPalHttpConnection: INFO	: Response Status 	: 201
+[17-02-2016 06:14:09] PayPal\Core\PayPalHttpConnection: INFO	: POST https://api.paypal.com/v1/oauth2/token
+[17-02-2016 06:14:10] PayPal\Core\PayPalHttpConnection: INFO	: Response Status 	: 200
+[17-02-2016 06:14:10] PayPal\Core\PayPalHttpConnection: INFO	: POST https://api.paypal.com/v1/payments/payment
+[17-02-2016 06:14:11] PayPal\Core\PayPalHttpConnection: INFO	: Response Status 	: 201
+[19-02-2016 05:19:25] PayPal\Core\PayPalHttpConnection: INFO	: POST https://api.paypal.com/v1/oauth2/token
+[19-02-2016 05:19:26] PayPal\Core\PayPalHttpConnection: INFO	: Response Status 	: 200
+[19-02-2016 05:19:26] PayPal\Core\PayPalHttpConnection: INFO	: POST https://api.paypal.com/v1/payments/payment
+[19-02-2016 05:19:26] PayPal\Core\PayPalHttpConnection: INFO	: Response Status 	: 201
+[19-02-2016 05:31:46] PayPal\Core\PayPalHttpConnection: INFO	: POST https://api.paypal.com/v1/oauth2/token
+[19-02-2016 05:31:47] PayPal\Core\PayPalHttpConnection: INFO	: Response Status 	: 200
+[19-02-2016 05:31:47] PayPal\Core\PayPalHttpConnection: INFO	: POST https://api.paypal.com/v1/payments/payment
+[19-02-2016 05:31:48] PayPal\Core\PayPalHttpConnection: INFO	: Response Status 	: 201
+[24-02-2016 09:54:26] PayPal\Core\PayPalHttpConnection: INFO	: POST https://api.paypal.com/v1/oauth2/token
+[24-02-2016 09:54:27] PayPal\Core\PayPalHttpConnection: INFO	: Response Status 	: 200
+[24-02-2016 09:54:27] PayPal\Core\PayPalHttpConnection: INFO	: POST https://api.paypal.com/v1/payments/payment
+[24-02-2016 09:54:27] PayPal\Core\PayPalHttpConnection: INFO	: Response Status 	: 201
+[24-02-2016 09:54:48] PayPal\Core\PayPalHttpConnection: INFO	: POST https://api.paypal.com/v1/oauth2/token
+[24-02-2016 09:54:49] PayPal\Core\PayPalHttpConnection: INFO	: Response Status 	: 200
+[24-02-2016 09:54:49] PayPal\Core\PayPalHttpConnection: INFO	: POST https://api.paypal.com/v1/payments/payment
+[24-02-2016 09:54:49] PayPal\Core\PayPalHttpConnection: INFO	: Response Status 	: 201
+[24-02-2016 09:55:34] PayPal\Core\PayPalHttpConnection: INFO	: POST https://api.paypal.com/v1/oauth2/token
+[24-02-2016 09:55:34] PayPal\Core\PayPalHttpConnection: INFO	: Response Status 	: 200
+[24-02-2016 09:55:34] PayPal\Core\PayPalHttpConnection: INFO	: POST https://api.paypal.com/v1/payments/payment
+[24-02-2016 09:55:35] PayPal\Core\PayPalHttpConnection: INFO	: Response Status 	: 201

@@ -1,0 +1,8 @@
+[13-Feb-2016 00:36:43 UTC] PHP Parse error:  syntax error, unexpected 'global' (T_GLOBAL), expecting function (T_FUNCTION) in /home/c1273278/public_html/includes/mysql/config/config.php on line 36
+[13-Feb-2016 00:36:50 UTC] PHP Parse error:  syntax error, unexpected 'global' (T_GLOBAL), expecting function (T_FUNCTION) in /home/c1273278/public_html/includes/mysql/config/config.php on line 36
+[13-Feb-2016 00:37:27 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/c1273278/public_html/includes/mysql/config/config.php on line 59
+[13-Feb-2016 00:37:54 UTC] PHP Parse error:  syntax error, unexpected 'global' (T_GLOBAL), expecting function (T_FUNCTION) in /home/c1273278/public_html/includes/mysql/config/config.php on line 36
+[13-Feb-2016 00:38:28 UTC] PHP Parse error:  syntax error, unexpected 'global' (T_GLOBAL), expecting function (T_FUNCTION) in /home/c1273278/public_html/includes/mysql/config/config.php on line 36
+[13-Feb-2016 00:38:42 UTC] PHP Parse error:  syntax error, unexpected 'global' (T_GLOBAL), expecting function (T_FUNCTION) in /home/c1273278/public_html/includes/mysql/config/config.php on line 38
+[13-Feb-2016 00:41:14 UTC] PHP Parse error:  syntax error, unexpected 'global' (T_GLOBAL), expecting function (T_FUNCTION) in /home/c1273278/public_html/includes/mysql/config/config.php on line 36
+[13-Feb-2016 00:41:56 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/c1273278/public_html/includes/mysql/config/config.php on line 59

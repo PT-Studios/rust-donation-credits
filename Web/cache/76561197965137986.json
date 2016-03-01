@@ -1,0 +1,24 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561197965137986",
+				"communityvisibilitystate": 3,
+				"profilestate": 1,
+				"personaname": "OldeTobeh",
+				"lastlogoff": 1456324898,
+				"profileurl": "http://steamcommunity.com/id/strokingkeys/",
+				"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/db/db3aff247b0629f1543e1f838d8d9c0d93d8c268.jpg",
+				"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/db/db3aff247b0629f1543e1f838d8d9c0d93d8c268_medium.jpg",
+				"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/db/db3aff247b0629f1543e1f838d8d9c0d93d8c268_full.jpg",
+				"personastate": 0,
+				"realname": "C Palmtrees",
+				"primaryclanid": "103582791441335991",
+				"timecreated": 1079655478,
+				"personastateflags": 0,
+				"loccountrycode": "US"
+			}
+		]
+		
+	}
+}

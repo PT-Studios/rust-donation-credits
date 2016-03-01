@@ -1,0 +1,27 @@
+[11-Oct-2015 19:44:39 America/Chicago] PHP Fatal error:  Call to undefined function getAllCardIds() in /home1/cpalm012/public_html/Clients/testyard/system/deal.php on line 3
+[12-Feb-2016 21:25:48 UTC] PHP Warning:  require_once(/home/c1273278/public_html/system/config/config.php): failed to open stream: No such file or directory in /home/c1273278/public_html/includes/mysql/header.php on line 4
+[12-Feb-2016 21:25:48 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/c1273278/public_html/system/config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/c1273278/public_html/includes/mysql/header.php on line 4
+[12-Feb-2016 21:26:32 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL), expecting ',' or ';' in /home/c1273278/public_html/includes/mysql/config/config.php on line 32
+[12-Feb-2016 21:26:59 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL), expecting ',' or ';' in /home/c1273278/public_html/includes/mysql/config/config.php on line 32
+[12-Feb-2016 21:27:47 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL), expecting ',' or ';' in /home/c1273278/public_html/includes/mysql/config/config.php on line 32
+[12-Feb-2016 21:28:01 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL), expecting ',' or ';' in /home/c1273278/public_html/includes/mysql/config/config.php on line 32
+[12-Feb-2016 21:28:01 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL), expecting ',' or ';' in /home/c1273278/public_html/includes/mysql/config/config.php on line 32
+[12-Feb-2016 21:28:02 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL), expecting ',' or ';' in /home/c1273278/public_html/includes/mysql/config/config.php on line 32
+[12-Feb-2016 21:28:02 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL), expecting ',' or ';' in /home/c1273278/public_html/includes/mysql/config/config.php on line 32
+[13-Feb-2016 00:15:43 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/c1273278/public_html/includes/mysql/config/config.php on line 58
+[13-Feb-2016 00:16:58 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/c1273278/public_html/includes/mysql/config/config.php on line 58
+[13-Feb-2016 00:17:39 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/c1273278/public_html/includes/mysql/config/config.php on line 58
+[13-Feb-2016 00:21:28 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/c1273278/public_html/includes/mysql/config/config.php on line 58
+[13-Feb-2016 00:22:17 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/c1273278/public_html/includes/mysql/config/config.php on line 58
+[13-Feb-2016 00:23:17 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/c1273278/public_html/includes/mysql/config/config.php on line 58
+[13-Feb-2016 00:29:16 UTC] PHP Notice:  Undefined variable: database in /home/c1273278/public_html/includes/mysql/classes/player.php on line 21
+[13-Feb-2016 00:29:16 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/c1273278/public_html/includes/mysql/classes/player.php on line 21
+[13-Feb-2016 00:30:00 UTC] PHP Notice:  Undefined variable: database in /home/c1273278/public_html/includes/mysql/classes/player.php on line 22
+[13-Feb-2016 00:30:00 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/c1273278/public_html/includes/mysql/classes/player.php on line 22
+[13-Feb-2016 00:30:19 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/c1273278/public_html/includes/mysql/config/config.php on line 58
+[13-Feb-2016 00:31:35 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/c1273278/public_html/includes/mysql/config/config.php on line 58
+[13-Feb-2016 00:32:28 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/c1273278/public_html/includes/mysql/config/config.php on line 59
+[13-Feb-2016 00:32:36 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/c1273278/public_html/includes/mysql/config/config.php on line 59
+[13-Feb-2016 00:34:49 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/c1273278/public_html/includes/mysql/config/config.php on line 59
+[13-Feb-2016 00:35:32 UTC] PHP Parse error:  syntax error, unexpected 'global' (T_GLOBAL), expecting function (T_FUNCTION) in /home/c1273278/public_html/includes/mysql/config/config.php on line 36
+[13-Feb-2016 00:35:34 UTC] PHP Parse error:  syntax error, unexpected 'global' (T_GLOBAL), expecting function (T_FUNCTION) in /home/c1273278/public_html/includes/mysql/config/config.php on line 36

@@ -1,0 +1,109 @@
+html {
+	font-size: 62.5%; 
+}
+body {
+	font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
+	line-height: 1.6;
+	font-weight: 400;
+	font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	background: #1B2838;
+	color: #8F98A0;
+}
+
+/* simple styles */
+.center-text {
+	text-align: center;
+}
+
+.content {
+	margin: 0 auto 32px;
+	padding: 32px;
+	background-color: rgba(246,234,224,.9);
+	border-radius: 6px;
+	color: #222;
+}
+
+.steam-join-hud {
+	background-image: url(http://owd.clanservers.com/img/owd-logo.png);
+	background-color: #1a1819;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center center;
+	width: 100%;
+	min-height: 64px;
+	height: 7.56em;
+	display: block;
+}
+
+.container {
+	position: relative;
+	width: 100%;
+	max-width: 960px;
+	margin: 0 auto;
+	padding: 0 20px;
+	box-sizing: border-box; 
+}
+
+.column, .columns {
+	width: 100%;
+	box-sizing: border-box; 
+}
+
+.one-third.column { 
+	width: 30.6666666667%;
+	margin: 32px auto 0;
+}
+
+.container:after,
+.logo,
+.row:after,
+.u-cf {
+	content: "";
+	display: table;
+	clear: both; 
+}
+
+
+/* Login */
+.login-block {
+	position: absolute;
+	top: 8px;
+	right: 0;
+	height: 32px;
+	display: block;
+	padding: 8px;
+}
+
+.login-block.logged-in {
+	background-color: #0B1017;
+}
+
+.login-block.logged-in:hover {
+	background-color: #1B2838;
+}
+
+.logout-msg {
+	font-size: 12px;
+	color: #fefefe;
+	position: absolute;
+	bottom: 2px;
+	left: 49px;
+	display: none;
+}
+
+.login-block.logged-in:hover .logout-msg {
+	display: block;
+}
+
+.login-block .user-name {
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 8px;
+}
+
+.login-block .ava {
+	display: inline-block;
+	width: 32px;
+	height: 32px;
+	float: right;
+}

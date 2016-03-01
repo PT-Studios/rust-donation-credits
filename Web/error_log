@@ -1,0 +1,7 @@
+[19-Feb-2016 13:51:40 America/Chicago] PHP Warning:  fopen(cache/76561197965137986.json): failed to open stream: No such file or directory in /home1/cpalm012/public_html/Clients/donationcredits/includes/steamLogin.php on line 43
+[19-Feb-2016 13:51:40 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home1/cpalm012/public_html/Clients/donationcredits/includes/steamLogin.php on line 44
+[19-Feb-2016 13:51:40 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home1/cpalm012/public_html/Clients/donationcredits/includes/steamLogin.php on line 45
+[19-Feb-2016 13:51:40 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cpalm012/public_html/Clients/donationcredits/includes/steamLogin.php:43) in /home1/cpalm012/public_html/Clients/donationcredits/includes/steamLogin.php on line 49
+[19-Feb-2016 13:51:40 America/Chicago] PHP Warning:  file_get_contents(cache/76561197965137986.json): failed to open stream: No such file or directory in /home1/cpalm012/public_html/Clients/donationcredits/includes/steamLogin.php on line 58
+[19-Feb-2016 14:03:31 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home1/cpalm012/public_html/Clients/donationcredits/includes/app_config.php on line 42
+[19-Feb-2016 14:03:40 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home1/cpalm012/public_html/Clients/donationcredits/includes/app_config.php on line 42

@@ -1,0 +1,24 @@
+[03-Feb-2016 19:19:29 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home1/cpalm012/public_html/Clients/rust/paypal/app/start.php on line 11
+[03-Feb-2016 19:20:21 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home1/cpalm012/public_html/Clients/rust/paypal/app/start.php on line 11
+[03-Feb-2016 19:21:29 America/Chicago] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home1/cpalm012/public_html/Clients/rust/paypal/app/start.php on line 3
+[03-Feb-2016 19:21:29 America/Chicago] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home1/cpalm012/public_html/Clients/rust/paypal/app/start.php on line 3
+[03-Feb-2016 19:21:29 America/Chicago] PHP Fatal error:  require(): Failed opening required '../vendor/autoload.php' (include_path='.:/opt/php55/lib/php') in /home1/cpalm012/public_html/Clients/rust/paypal/app/start.php on line 3
+[03-Feb-2016 19:21:56 America/Chicago] PHP Fatal error:  Class 'Payer' not found in /home1/cpalm012/public_html/Clients/rust/paypal/checkout.php on line 15
+[03-Feb-2016 19:58:28 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home1/cpalm012/public_html/Clients/rust/paypal/pay.php on line 32
+[03-Feb-2016 19:58:57 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home1/cpalm012/public_html/Clients/rust/paypal/pay.php on line 33
+[03-Feb-2016 19:59:17 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home1/cpalm012/public_html/Clients/rust/paypal/pay.php on line 33
+[03-Feb-2016 20:05:29 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cpalm012/public_html/Clients/rust/paypal/pay.php:11) in /home1/cpalm012/public_html/Clients/rust/paypal/pay.php on line 12
+[03-Feb-2016 20:34:58 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home1/cpalm012/public_html/Clients/rust/paypal/pay.php on line 44
+[09-Feb-2016 20:20:39 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/c1273278/public_html/paypal/pay.php on line 33
+[09-Feb-2016 20:21:20 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/c1273278/public_html/paypal/pay.php on line 33
+[09-Feb-2016 20:21:22 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/c1273278/public_html/paypal/pay.php on line 33
+[09-Feb-2016 20:21:38 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/c1273278/public_html/paypal/pay.php on line 33
+[09-Feb-2016 20:22:40 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/c1273278/public_html/paypal/pay.php on line 33
+[09-Feb-2016 20:23:22 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/c1273278/public_html/paypal/pay.php on line 33
+[19-Feb-2016 18:00:45 UTC] PHP Notice:  Use of undefined constant SITE_URL - assumed 'SITE_URL' in /home/c1273278/public_html/paypal/checkout.php on line 57
+[19-Feb-2016 18:00:45 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'ReturnUrl is not a fully qualified URL' in /home/c1273278/public_html/paypal/vendor/paypal/rest-api-sdk-php/lib/PayPal/Validation/UrlValidator.php:23
+Stack trace:
+#0 /home/c1273278/public_html/paypal/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/RedirectUrls.php(29): PayPal\Validation\UrlValidator::validate('SITE_URL/paypal...', 'ReturnUrl')
+#1 /home/c1273278/public_html/paypal/checkout.php(57): PayPal\Api\RedirectUrls->setReturnUrl('SITE_URL/paypal...')
+#2 {main}
+  thrown in /home/c1273278/public_html/paypal/vendor/paypal/rest-api-sdk-php/lib/PayPal/Validation/UrlValidator.php on line 23

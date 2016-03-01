@@ -1,0 +1,28 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561198209428096",
+				"communityvisibilitystate": 3,
+				"profilestate": 1,
+				"personaname": "GamingWithHolladay",
+				"lastlogoff": 1455093631,
+				"profileurl": "http://steamcommunity.com/id/GamingWithHolladay/",
+				"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a0/a01843935e6d7992ce7093cb1b93718fc770a8d8.jpg",
+				"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a0/a01843935e6d7992ce7093cb1b93718fc770a8d8_medium.jpg",
+				"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a0/a01843935e6d7992ce7093cb1b93718fc770a8d8_full.jpg",
+				"personastate": 1,
+				"realname": "Brandon Holladay",
+				"primaryclanid": "103582791429521408",
+				"timecreated": 1422933880,
+				"personastateflags": 0,
+				"gameserverip": "173.199.102.224:28016",
+				"gameserversteamid": "90099325897047049",
+				"gameextrainfo": "Rust",
+				"gameid": "252490",
+				"loccountrycode": "US"
+			}
+		]
+		
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561198033418506",
+				"communityvisibilitystate": 3,
+				"profilestate": 1,
+				"personaname": "rottiesam",
+				"lastlogoff": 1455191448,
+				"profileurl": "http://steamcommunity.com/profiles/76561198033418506/",
+				"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg",
+				"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_medium.jpg",
+				"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",
+				"personastate": 1,
+				"primaryclanid": "103582791435359638",
+				"timecreated": 1289576940,
+				"personastateflags": 0,
+				"gameserverip": "173.199.102.224:28016",
+				"gameserversteamid": "90099373206273025",
+				"gameextrainfo": "Rust",
+				"gameid": "252490"
+			}
+		]
+		
+	}
+}
