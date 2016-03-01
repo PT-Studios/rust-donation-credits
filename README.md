@@ -7,11 +7,14 @@ INFORMATION
 - This code contains the PayPal SDK in the Web\includes\paypal\vendor folder.  I simply use this code, I do not claim to own it.
 - This code contains the LightOpenID SDK in the Web\includes\lightopenid folder.  I simply use this code, I do not claim to own it.
 
+
 INSTALLATION
+
 
 Oxide
 
 Throw the DonateCredits.cs plugin into the your server's oxide/plugins directory. Simple.
+
 
 Web Application
 
@@ -31,10 +34,14 @@ FAQ & QUESTIONS
 - Please read the FAQ on http://oxidemod.org/plugins/donation-credits.1709 
 - Post on http://oxidemod.org/threads/donation-credits.16062/ for any specific questions
 
+
 DEMO
+
 http://donationcredits.palmtree-studios.net/
 
+
 DONATE
+
 http://oxidemod.org/plugins/donation-credits.1709  =>  "Support the Developer" button.
 
 
