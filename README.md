@@ -10,7 +10,7 @@ INFORMATION
 
 WEB APP INSTALLATION
 
-1. Verify you do not have any conflicting filenames
+1. Verify you do not have any conflicting filenames (perhaps create a subdomain e.g. donations.mywebsite.com)
 
 2. Place the contents of the Web folder into your web server's /public_html/, /www/, or web root folder.
 
