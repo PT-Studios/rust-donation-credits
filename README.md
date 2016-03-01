@@ -10,14 +10,21 @@ INFORMATION
 INSTALLATION
 
 Oxide
+
 Throw the DonateCredits.cs plugin into the your server's oxide/plugins directory. Simple.
 
 Web Application
+
 1. Verify you do not have any conflicting filenames
+
 2. Place the contents of the Web folder into your web server's /public_html/, /www/, or web root folder.
+
 3. Create your databases using the code in the link below
+
 4. Edit the /includes/app_config.php file to add your Steam and PayPal API Keys, and to suit your servers specfic reward needs (This should be the only file you need to edit).
+
 5. Follow the instructions on http://oxidemod.org/plugins/donation-credits.1709/
+
 6. Donate to the developer because you love me.
 
 FAQ & QUESTIONS
